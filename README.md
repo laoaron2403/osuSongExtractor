@@ -1,5 +1,5 @@
 # osuSongExtractor
-Gather all your mp3 files into a single folder from your /osu!/Song, rename them repective to song name in map file data.
+Gather all your mp3 files into a single folder from your `/osu!/Song` and rename them respective to song name in its map's metadata.
 
 ## Target
 1. Extract .mp3 song files from /osu!/Songs folder and gather them onto a single folder
